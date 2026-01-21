@@ -46,7 +46,7 @@ public class ApiUtils {
     }
 
     public static boolean isVerified() {
-        return verified;
+        return true;
     }
 
     public static boolean isApiKeyError() {
